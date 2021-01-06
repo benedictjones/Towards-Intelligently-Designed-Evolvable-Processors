@@ -1,11 +1,17 @@
-# Towards-Intelligently-Designed-Evolvable-Processors
+# Towards Intelligently Designed Evolvable Processors
 This is a description of the EiM simulation and algorithm used and supporting the paper "Towards Intelligently Designed Evolvable Processors".
 PySpice was used to intergrate a Differential Evolution evolutionary algorithm with SPICE models of materials. The model can be thought of as a Evolution in-Materio (EiM) material proxy, enabling quick and efficient testing of EiM Evolvable processor properties.
 
-The code described below can be accessed at: https://collections.durham.ac.uk/files/r1hm50tr744
+A EiM processor can be thought to act as seen in Fig.1 below:
+![alt text](https://github.com/benedictjones/Towards-Intelligently-Designed-Evolvable-Processors/blob/main/Fig1.PNG)
 
 
+In the paper the EiM processors are used to carry out some basic classification as seen in Fig.1 below. Here the material inputs are evolved such that a deicion boundary is placed to classify (seperate) the displayed concentric dataset.
+![alt text](https://github.com/benedictjones/Towards-Intelligently-Designed-Evolvable-Processors/blob/main/Fig10.PNG) 
 
+
+The code described below can be accessed at: https://collections.durham.ac.uk/files/r1hm50tr744 
+(Creative Commons Attribution 4.0 International)
 
 # EiM Material Proxy
 This code consists of an EiM simulation that uses differential evolution (DE).
@@ -16,7 +22,7 @@ Title: Towards Intelligently Designed Evolvable Processors
 
 Authors: Benedict Jones, John Chouard, Bianca C.C. Branco, Eléonore G.B. Vissol-Gaudin, Christopher Pearson, Dagou A. Zeze, Michael C. Petty, Christopher Groves
 
-Note that the data used in the paper is included (~400MB) making up the bulk of the download.
+Note that the data used in the paper is included (~150MB) making up the bulk of the download.
 
 ## System Requirements
 
