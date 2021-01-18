@@ -7,7 +7,7 @@ A EiM processor uses and Evolutionary Algorithm to exploit a material to perform
 ![alt text](https://github.com/benedictjones/Towards-Intelligently-Designed-Evolvable-Processors/blob/main/Fig1.PNG)
 
 
-In the paper the EiM processors are used to carry out some basic classification as seen in Fig.1 below. Here the material inputs are evolved such that a deicion boundary is placed to classify (seperate) the displayed concentric dataset.
+In the paper the EiM processors are used to carry out some basic classification as seen in Fig.10 below. Here the material inputs are evolved such that a deicion boundary is placed to classify (separate) the displayed concentric dataset.
 ![alt text](https://github.com/benedictjones/Towards-Intelligently-Designed-Evolvable-Processors/blob/main/Fig10.PNG) 
 
 
